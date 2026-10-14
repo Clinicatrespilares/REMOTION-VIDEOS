@@ -1,0 +1,16 @@
+{
+  "duration": 69.866667,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 2096,
+  "audio": "aac",
+  "video": "h264",
+  "delivery_file": "reels-entrega.mp4",
+  "bytes": 23800257,
+  "sha256": "612aba0285ac103851485a451e0e7c635281e94158c70519b99874d344c0732a",
+  "caption_blocks": 37,
+  "status": "complete_local_export",
+  "google_drive_upload": "not_completed",
+  "audio_target": "-16 LUFS / true peak -1.5 dB"
+}
